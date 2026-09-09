@@ -14,11 +14,7 @@
 
 ### 到 Releases 下載最新版
 
-Windows:  
-BB.YT.Downloader.exe  
-
-Linux:  
-BB.YT.Downloader  
+- [BB YT Downloader.exe](https://github.com/BeefBB/bb-yt-downloader/releases)
 
 # 使用
 
