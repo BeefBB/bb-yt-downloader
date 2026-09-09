@@ -604,7 +604,7 @@ class App(QObject):
 
         self.ui.text_log.setText("懶人包: \"選擇輸出資料夾\" > \"貼上網址\" > \"下載 !\"\n")  # type: ignore
 
-        self.ui.label_version.setText("3.1")  # type: ignore
+        self.ui.label_version.setText("3.2.0")  # type: ignore
 
 
     def filter_message(self, msg: str) -> str:
